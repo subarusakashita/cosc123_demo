@@ -2,6 +2,7 @@
 This is just random text in the body
 ## This is level 2 heading
 If you want to **bold** text, just surround the words with double star
+If you want to *italicize text, just surroud the words witha single star
 ### This is level 3 heading
 If you want to make a list:
 - item1
@@ -10,7 +11,6 @@ If you want to make a list:
 If you want to make a numbered list:
 1. item1
 2. item2
-3. item3
 
 This is a break
 
